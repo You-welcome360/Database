@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "68a7cea09383eb348f1d6a5b"
+  },
+  "customerId": 1,
+  "fname": "Raymond",
+  "lname": "Amoah",
+  "email": "ray@gmail.com",
+  "hireDate": {
+    "$date": "2025-01-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a7d5399383eb348f1d6a66"
+  },
+  "customerId": 2,
+  "fname": "Gifty",
+  "lname": "Brown",
+  "email": "gift@gmail.com",
+  "hireDate": {
+    "$date": "2025-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a7d5399383eb348f1d6a67"
+  },
+  "customerId": 3,
+  "fname": "Michael",
+  "lname": "White",
+  "email": "mike@gmail.com",
+  "hireDate": {
+    "$date": "2025-01-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a7d5399383eb348f1d6a68"
+  },
+  "customerId": 4,
+  "fname": "Leticia",
+  "lname": "Write",
+  "email": "let@gmail.com",
+  "hireDate": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a7d5399383eb348f1d6a69"
+  },
+  "customerId": 5,
+  "fname": "Gladys",
+  "lname": "Gonzales",
+  "email": "gladys@gmail.com",
+  "hireDate": {
+    "$date": "2025-02-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a7d5399383eb348f1d6a6a"
+  },
+  "customerId": 6,
+  "fname": "Richard",
+  "lname": "West",
+  "email": "rich@gmail.com",
+  "hireDate": {
+    "$date": "2025-02-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a7d5399383eb348f1d6a6b"
+  },
+  "customerId": 7,
+  "fname": "Maxwell",
+  "lname": "Lover",
+  "email": "max@gmail.com",
+  "hireDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a7d5399383eb348f1d6a6c"
+  },
+  "customerId": 8,
+  "fname": "Isaiah",
+  "lname": "Max",
+  "email": "easy@gmail.com",
+  "hireDate": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a7d5399383eb348f1d6a6d"
+  },
+  "customerId": 9,
+  "fname": "Jude",
+  "lname": "Beligham",
+  "email": "jude@gmail.com",
+  "hireDate": {
+    "$date": "2025-02-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a7e2f3a7c3d2e42eaf6c32"
+  },
+  "customerId": 10,
+  "fname": "Faithful",
+  "lname": "Wegilseworth",
+  "email": "faith@gmail.com",
+  "hireDate": 1999
+}]
